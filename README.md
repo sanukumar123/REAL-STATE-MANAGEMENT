@@ -6,4 +6,4 @@
 
 
 # Steps before using
-#### Enter Username , password and database name of Mysql: [here](https://github.com/shantanuraj0/Real_Estate_Management_System/blob/master/connection/connection.js)
+#### Enter Username , password and database name of Mysql: [here](https://github.com/sanukumar123/REAL-STATE-MANAGEMENT/blob/main/connection/connection.js)
